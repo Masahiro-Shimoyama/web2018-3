@@ -1,5 +1,3 @@
-
-
 var who66 ='world';
 //var come = 'が来た';
 function sayhello66(){
@@ -13,5 +11,6 @@ function taro66(){
 function hanako66(){
   who66 = '花子';
 }
-function gakita() {alert(who66 + 'が来た');
+function gakita() {
+  alert(who66 + 'が来た');
 }
