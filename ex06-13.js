@@ -9,7 +9,7 @@ function ThreeSecChange2() {
   setTimeout("imgchange2()",3000);
 }
 function imgchange2() {
-  document.getElementById('img13').src = './image/josai.png';
+  document.getElementById('img13').src = './image/bulboff.gif';
 }
 
 //function ThreeSecBack() { 
